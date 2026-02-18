@@ -4,3 +4,9 @@ C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.csp
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaEntidad\obj\Debug\CapaEntidad.pdb

@@ -16,3 +16,20 @@ C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.Up2D
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CLINICA\obj\Debug\CLINICA.exe
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CLINICA\obj\Debug\CLINICA.pdb
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CLINICA\obj\Debug\CLINICA.exe.config
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CLINICA.exe.config
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CLINICA.exe
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CLINICA.pdb
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaEntidad.dll
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaLogica.dll
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaDatos.dll
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaEntidad.pdb
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaLogica.pdb
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\bin\Debug\CapaDatos.pdb
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.AssemblyReference.cache
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.Form1.resources
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.Properties.Resources.resources
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.GenerateResource.cache
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.CoreCompileInputs.cache
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.csproj.Up2Date
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.exe
+C:\clinica\prototipo-clinica\CLINICA\CLINICA\obj\Debug\CLINICA.pdb

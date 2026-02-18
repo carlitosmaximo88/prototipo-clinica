@@ -49,7 +49,7 @@ namespace CLINICA
 
                 logPaciente.Instancia.InsertarPaciente(p);
 
-                MessageBox.Show("Paciente registrado");
+                MessageBox.Show("Paciente agregados");
 
                 Limpiar();
                 MessageBox.Show("Limpiando...");
@@ -71,5 +71,9 @@ namespace CLINICA
             dgvPacientes.DataSource = logPaciente.Instancia.ListarPacientes();
         }
 
+        private void modificar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

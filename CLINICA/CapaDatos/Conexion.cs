@@ -25,7 +25,7 @@ namespace CapaDatos
         public SqlConnection Conectar()
         {
             return new SqlConnection(
-                "Data Source=LAPTOP-722UJH9P;Initial Catalog=ClinicaDB;Integrated Security=True");
+                "Data Source=DESKTOP-DTDPIP3;Initial Catalog=ClinicaDB;Integrated Security=True");
         }
     }
 }

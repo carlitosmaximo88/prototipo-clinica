@@ -9,3 +9,14 @@ C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaLogica\obj\Debug\CapaLogica.cspro
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\CARLITOS MAXIMO\Documents\CLINICA\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaLogica.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaDatos.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaEntidad.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\bin\Debug\CapaEntidad.pdb
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\obj\Debug\CapaLogica.dll
+C:\clinica\prototipo-clinica\CLINICA\CapaLogica\obj\Debug\CapaLogica.pdb
