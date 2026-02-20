@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace CLINICA
 {
-    public partial class reprogramacion : Form
+    public partial class frmPacientes : Form
     {
-        public reprogramacion()
+        public frmPacientes()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
